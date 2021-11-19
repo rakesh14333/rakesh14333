@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rakesh14333
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java and Angular *
+- 👋 Hi, I’m Soma Rakesh Reddy
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Java and Angular 8*
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
